@@ -1,0 +1,21 @@
+# Игнорируем Python-кеши и временные файлы
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code и PyCharm
+.vscode/
+.idea/
+
+# Архивы
+*.zip
+*.tar.gz
+
+# Файлы среды
+.env
+.env.*
+
+# Системные
+.DS_Store
+Thumbs.db
